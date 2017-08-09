@@ -1,0 +1,8 @@
+browser: chrome
+
+#chrome configuration
+chrome:
+ binary: C:/Program Files (x86)/Google/Chrome/Application/chrome.exe
+ driverPath: drivers/chromedriver/chromedriver.exe
+ parameters:
+
